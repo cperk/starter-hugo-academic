@@ -16,18 +16,40 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 
+  icon: stack-overflow
+  icon_pack: fab
+  name: Code collaboration
+
+- description: 
+  icon: dna
   icon_pack: fas
-  name: Photography
+  name: DNA extraction and PCR
+- description: 
+  icon: drafting-compass
+  icon_pack: fas
+  name: GPS navigation
+  feature:
+- description: 
+  icon: seedling
+  icon_pack: fas
+  name: Plant propagation
+- description: 
+  icon: globe-americas
+  icon_pack: fas
+  name: Translation and localization
+- description: 
+  icon: life-ring
+  icon_pack: fas
+  name: Water safety
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
