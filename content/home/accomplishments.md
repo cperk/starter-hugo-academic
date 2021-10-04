@@ -31,6 +31,21 @@ item:
   organization_url: https://www.boaterexam.com/
   title: Boating License
   url: ""
+- date_end: "2017-12-31"
+  date_start: "2017-09-01"
+  description: ""
+  organization: Esri
+  organization_url: https://www.esri.com/en-us/home
+  title: ArcGIS Course
+  url: ""
+- date_end: ""
+  date_start: "2017-08-15"
+  description: ""
+  organization: The National Socio-Environmental Synthesis Center
+  organization_url: https://www.sesync.org/
+  title: Bayesian Modelling for Socio-Environmental Data
+  url: ""
+  item:
 
 
 design:

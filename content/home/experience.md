@@ -25,7 +25,7 @@ experience:
   - title: PhD Candidate
     company: University of Maryland-College Park
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: College Park, MD
     date_start: '2016-09-01'
     date_end: ''
@@ -42,7 +42,7 @@ experience:
   - title: Laboratory Technician
     company: Loyola University of Maryland
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Baltimore, MD
     date_start: '2015-07-01'
     date_end: '2016-07-31'
@@ -51,7 +51,7 @@ experience:
   - title: Senior Thesis
     company: Vassar College
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Poughkeepsie, NY
     date_start: '2013-09-01'
     date_end: '2013-12-31'
@@ -62,8 +62,34 @@ experience:
         * Plant handling and manipulation
         * Treatment maintenance for over 100 potted plants
         * Statistical analysis in JMP
+            
+  - title: Indepdendent Research
+    company: Vassar College
+    company_url: ''
+    company_logo: 
+    location: Poughkeepsie, NY
+    date_start: '2013-01-01'
+    date_end: '2013-12-31'
+    Title: Restoration on the Vassar Farm and Ecological Preserve; reforestation of an abandoned field, with goals to create a seed source, increase biodiversity, buffer nearby streams, and create a forest that is resilient to the effects of climate change.
+    description: |2-
+        
+        * Site evaluation: to determine whether an abandoned four-acre field was a good candidate for reforestation, identified tree species in surrounding area and existing (mostly non-woody) species in the field, took soil samples to assess soil composition, and evaluated nearby stream buffers to assess erosion risk. 
+        * Tree planting: Using the soil and moisture data, the field was split into four community types for planting: oak-hickory, mesic, red maple-sweet gum-black gum, and ﬂood plain forest.
+        *Techniques: woody plant identification; transect sampling; stratified soil sampling; soil analysis; statistical analysis
+            
+  - title: Indepdendent Research
+    company: Drew University
+    company_url: ''
+    company_logo: 
+    location: Madison, NJ
+    date_start: '2013-06-01'
+    date_end: '2013-08-31'
+    Title: Fermentation study on nutritional regulation of platensimycin production by Streptomyces platensis; the effects of amino acids on the production of platensimycin
 
-
+    description: |2-
+        
+        * Preparation of crude production medium (PM1) and chemically-defined production medium (PM7)
+        * Shake-flask fermentation 
 design:
   columns: '2'
 ---

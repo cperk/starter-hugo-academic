@@ -72,6 +72,6 @@ highlight_name: true
 
 Carrie Perkins is a PhD candidate in aquatic ecology/genetics in the Plant Science Department at the University of Maryland (Neel Lab). Her research focuses on assessing the resilience of aquatic plant Vallisneria americana (water celery) to the effects of climate change such as rising temperatures and salinity intrusion in its native Chesapeake Bay, Maryland and Hudson River, New York. 
 
-This is an interdisciplinary research program that investigates resilience in Vallisneria from both evolutionary and ecological perspectives. Through integrated field observations and field and greenhouse experiments she is addressing potential for acclimation through individual plasticity in response to the environment and potential for adaptation through natural selection. Both types of responses are considered essential for long-term resilience. 
+She investigates resilience in Vallisneria from both evolutionary and ecological perspectives. Through an interdisciplinary research program of field observations, field and greenhouse experiments, and microsatellite DNA analysis, she is addressing potential for acclimation through individual plasticity in response to the environment and potential for adaptation through natural selection. Both types of responses are considered essential for long-term resilience. 
 
 
